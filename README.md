@@ -4,11 +4,11 @@
 
 ## About Me
 
-Greetings! 👋 I am Jancarlos Rodriguez, and you may know me as Jrod7938 on GitHub. As an avid programmer with a profound interest in technology and coding, I am constantly seeking ways to innovate and enhance user experiences. Currently, I am pursuing a Bachelor's degree in Computer Science, and my primary focus lies in developing cutting-edge RuneLite Plugins that take gaming to the next level.
+Greetings! 👋 I am Jancarlos Rodriguez, and you may know me as Jrod7938 on GitHub. As an avid programmer with a profound interest in technology and coding, I am constantly seeking ways to innovate and enhance user experiences. Currently, I am pursuing a Bachelor's degree in Computer Science.
 
 ## Interests
 
-- 📚 Ongoing Learning: Java and Kotlin
+- 📚 Ongoing Learning: Java, Kotlin, Python
 - 💻 Current Project: Building RuneLite Plugins
 
 ## Connect with Me
