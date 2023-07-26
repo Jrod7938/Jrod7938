@@ -1,10 +1,10 @@
-# Jrod7938 - United States Marine Corp Veteran | Computer Science Student | RuneLite Plugin Developer
+# Jrod7938
 
 [![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Follow&style=social)](https://github.com/Jrod7938)
 
 ## About Me
 
-Hello there! 👋 I am Jancarlos Rodriguez, known as Jrod7938 on GitHub. I am a United States Marine Corp Veteran and currently pursuing a Bachelor's degree in Computer Science. My passion for technology and coding has led me to explore various programming languages and projects.
+Hello there! 👋 I am Jancarlos Rodriguez, known as Jrod7938 on GitHub. I am a passionate programmer with a keen interest in technology and coding. Currently, I am pursuing a Bachelor's degree in Computer Science and working on building RuneLite Plugins to enhance the gaming experience for users.
 
 ## Interests
 
@@ -18,12 +18,6 @@ Feel free to connect with me on LinkedIn: [Jancarlos Rodriguez](www.linkedin.com
 ## GitHub Stats
 
 ![Jrod7938's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jrod7938&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## Projects
-
-- **RuneLite Plugins**
-  - Description: I am actively working on creating RuneLite plugins to enhance the gaming experience for users of the popular MMORPG, RuneScape.
-  - Repository: [RuneLite Plugins](https://github.com/Jrod7938/RuneLite-Plugins)
 
 ## Contributions and Collaborations
 
