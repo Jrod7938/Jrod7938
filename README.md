@@ -1,19 +1,19 @@
-# Jrod7938
+# Jancarlos Rodriguez
 
 [![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Follow&style=social)](https://github.com/Jrod7938)
 
 ## About Me
 
-Hello there! 👋 I am Jancarlos Rodriguez, known as Jrod7938 on GitHub. I am a passionate programmer with a keen interest in technology and coding. Currently, I am pursuing a Bachelor's degree in Computer Science and working on building RuneLite Plugins to enhance the gaming experience for users.
+Greetings! 👋 I am Jancarlos Rodriguez, and you may know me as Jrod7938 on GitHub. As an avid programmer with a profound interest in technology and coding, I am constantly seeking ways to innovate and enhance user experiences. Currently, I am pursuing a Bachelor's degree in Computer Science, and my primary focus lies in developing cutting-edge RuneLite Plugins that take gaming to the next level.
 
 ## Interests
 
-- 📚 Currently Learning: Java and Kotlin
-- 💻 Working On: Building RuneLite Plugins
+- 📚 Ongoing Learning: Java and Kotlin
+- 💻 Current Project: Building RuneLite Plugins
 
-## Contact Me
+## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jancarlosrodriguez).
+Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/jancarlosrodriguez) for networking and discussions.
 
 ## GitHub Stats
 
@@ -21,7 +21,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jancarlos
 
 ## Contributions and Collaborations
 
-I am always open to collaborating on exciting projects and contributing to the open-source community. If you find my work interesting or want to discuss potential collaborations, feel free to reach out to me on LinkedIn.
+I thrive on collaborations and am enthusiastic about contributing to the open-source community. If you find my work intriguing or have exciting projects in mind, feel free to reach out to me on LinkedIn.
 
-Thank you for visiting my GitHub profile. Have a great day! 🚀
-
+Thank you for visiting my GitHub profile. Wishing you a fantastic day! 🚀
