@@ -25,5 +25,3 @@ I am always open to collaborating on exciting projects and contributing to the o
 
 Thank you for visiting my GitHub profile. Have a great day! 🚀
 
----
-*Note: This README is created as an example and may not represent actual data or GitHub account details.*
