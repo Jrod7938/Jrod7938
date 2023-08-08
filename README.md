@@ -9,7 +9,7 @@ Greetings! 👋 I am Jancarlos Rodriguez, and you may know me as Jrod7938 on Git
 ## Interests
 
 - 📚 Ongoing Learning: Java, Kotlin, Python
-- 💻 Current Project: Building RuneLite Plugins
+- 💻 Current Project: Contributing to RuneLite Open Source
 
 ## Connect with Me
 
