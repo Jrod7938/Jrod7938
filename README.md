@@ -13,7 +13,7 @@ Greetings! 👋 I am Jancarlos Rodriguez, and you may know me as Jrod7938 on Git
 
 ## Connect with Me
 
-Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/jancarlosrodriguez) for networking and discussions.
+Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/jancarlosrodriguez) or [Discord](https://discordapp.com/users/553761075892453398) for networking and discussions.
 
 ## GitHub Stats
 
