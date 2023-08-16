@@ -1,26 +1,26 @@
 # Jancarlos Rodriguez
 
-[![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Follow&style=social)](https://github.com/Jrod7938)
+[![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Followers&logo=GitHub&style=social)](https://github.com/Jrod7938)
 
-## About Me
+## 🚀 About Me
 
-Greetings! 👋 I am Jancarlos Rodriguez, and you may know me as Jrod7938 on GitHub. As an avid programmer with a profound interest in technology and coding, I am constantly seeking ways to innovate and enhance user experiences. Currently, I am pursuing a Bachelor's degree in Computer Science.
+Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as Jrod7938. My passion for technology and code drives me to push boundaries and craft unique digital experiences. I'm currently charting my path in Computer Science, pursuing a Bachelor's degree.
 
-## Interests
+## 🔍 Interests
 
-- 📚 Ongoing Learning: Java, Kotlin, Python
-- 💻 Current Project: Contributing to RuneLite Open Source
+- 📘 Always Learning: Java, Kotlin, Python
+- 🖥️ Current Project: RuneLite Open Source Contributions
 
-## Connect with Me
+## 🌐 Let's Connect
 
-Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/jancarlosrodriguez) or [Discord](https://discordapp.com/users/553761075892453398) for networking and discussions.
+Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.com/in/jancarlosrodriguez) or catch me on [Discord](https://discordapp.com/users/553761075892453398). I'm always up for an insightful conversation!
 
-## GitHub Stats
+## 📊 GitHub Metrics
 
-![Jrod7938's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jrod7938&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Jrod7938's GitHub Performance](https://github-readme-stats.vercel.app/api?username=Jrod7938&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
-## Contributions and Collaborations
+## 🤝 Teamwork Makes The Dream Work
 
-I thrive on collaborations and am enthusiastic about contributing to the open-source community. If you find my work intriguing or have exciting projects in mind, feel free to reach out to me on LinkedIn.
+Open-source projects or interesting collaborations spark my interest. If my work resonates with you or if you have a project proposal, don't hesitate to hit me up on LinkedIn or Discord.
 
-Thank you for visiting my GitHub profile. Wishing you a fantastic day! 🚀
+Thanks for dropping by. Cheers to more coding! 🎉
