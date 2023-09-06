@@ -9,7 +9,11 @@ Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as
 ## 🔍 Interests
 
 - 📘 Always Learning: Kotlin, Java, Python
-- 🖥️ Current Project: RuneLite Open Source Contributions
+- 🖥️ Current Projects:
+    - RuneLite Open Source Contributions
+    - CSC190 Software Engineering
+    - CSC184 Mobile Device Programming
+    - CSC160 Intro To Game Development
 
 ## 🌐 Let's Connect
 
