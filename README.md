@@ -1,6 +1,6 @@
 # Jancarlos Rodriguez
 
-[![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Followers&logo=GitHub&style=social)](https://github.com/Jrod7938) ![](https://komarev.com/ghpvc/?username=Jrod7938&color=blue&style=flat-square)
+[![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Followers&logo=GitHub&style=social)](https://github.com/Jrod7938) 
 
 ## 🚀 About Me
 
@@ -21,11 +21,21 @@ Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.
 
 ## 📊 GitHub Metrics
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jrod7938&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=40)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jrod7938&theme=tokyonight)
 
-![Jrod7938's GitHub Performance](https://github-readme-stats.vercel.app/api?username=Jrod7938&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrod7938&layout=compact&theme=tokyonight)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jrod7938&theme=nord)
+
+![Skyline](https://skyline.github.com/jrod7938/2023)
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 ## 🤝 Teamwork Makes The Dream Work
 
