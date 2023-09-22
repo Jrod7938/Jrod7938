@@ -29,8 +29,6 @@ Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.
 
 ![](https://komarev.com/ghpvc/?username=Jrod7938&color=blue&style=flat-square)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jrod7938&theme=xcode)
-
 ## 🤝 Teamwork Makes The Dream Work
 
 Open-source projects or interesting collaborations spark my interest. If my work resonates with you or if you have a project proposal, don't hesitate to hit me up on LinkedIn or Discord.
