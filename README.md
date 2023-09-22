@@ -21,9 +21,9 @@ Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.
 
 ## 📊 GitHub Metrics
 
-![Jrod7938's GitHub Performance](https://github-readme-stats.vercel.app/api?username=Jrod7938&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jrod7938&theme=tokyonight)
+
+![Jrod7938's GitHub Performance](https://github-readme-stats.vercel.app/api?username=Jrod7938&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrod7938&layout=compact&theme=tokyonight)
 
