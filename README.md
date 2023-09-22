@@ -1,6 +1,6 @@
 # Jancarlos Rodriguez
 
-[![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Followers&logo=GitHub&style=social)](https://github.com/Jrod7938) 
+[![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Followers&logo=GitHub&style=social)](https://github.com/Jrod7938) ![](https://komarev.com/ghpvc/?username=Jrod7938&color=blue&style=flat-square)
 
 ## 🚀 About Me
 
@@ -22,6 +22,8 @@ Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.
 ## 📊 GitHub Metrics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jrod7938&theme=tokyonight)
+
+![Jrod7938's GitHub Performance](https://github-readme-stats.vercel.app/api?username=Jrod7938&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrod7938&layout=compact&theme=tokyonight)
 
