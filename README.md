@@ -1,6 +1,4 @@
-# Jancarlos Rodriguez
-
-[![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Followers&logo=GitHub&style=social)](https://github.com/Jrod7938)
+# Jancarlos Rodriguez [![GitHub Badge](https://img.shields.io/github/followers/Jrod7938?label=Followers&logo=GitHub&style=social)](https://github.com/Jrod7938)
 
 ## 🚀 About Me
 
