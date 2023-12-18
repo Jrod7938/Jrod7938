@@ -9,9 +9,11 @@ Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as
 -  Always Learning: Kotlin, Java, Python, C#
 -  Current Projects:
     - RuneLite Open Source Contributions
-    - CSC190 Software Engineering
-    - CSC184 Mobile Device Programming
-    - CSC160 Intro To Game Development
+ 
+## Projects:
+- CSC190 Software Engineering
+https://github.com/Jrod7938/txtChangeApp/assets/46418742/d8b9b6d3-6a80-48ca-8730-edb23dfc2d2d
+
 
 ## Let's Connect
 
