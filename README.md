@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as JR. My passion for technology and code drives me to push boundaries and craft unique digital experiences. I'm currently pursuing a Computer Science Bachelor's degree.
+Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as JR. I'm currently pursuing a Computer Science Bachelor's degree.
 
 ## Interests
 
