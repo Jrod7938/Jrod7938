@@ -11,7 +11,7 @@ Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as
     - RuneLite Open Source Contributions
  
 ## Projects:
-- [txtChange](https://github.com/Jrod7938/txtChangeApp/assets/46418742/d8b9b6d3-6a80-48ca-8730-edb23dfc2d2d): Mobile Textbook Exchange App Hofstra University
+- [txtChange](https://github.com/Jrod7938/txtChangeApp): Mobile Textbook Exchange App Hofstra University
 
 
 
