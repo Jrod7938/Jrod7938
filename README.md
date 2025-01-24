@@ -29,6 +29,6 @@ Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.
 
 ## Teamwork Makes The Dream Work
 
-Open-source projects or interesting collaborations spark my interest. If my work resonates with you or if you have a project proposal, don't hesitate to hit me up on LinkedIn or Discord.
+Open-source projects or interesting collaborations spark my interest. If my work resonates with you or if you have a project proposal, don't hesitate to hit me up on [Discord](https://discordapp.com/users/553761075892453398).
 
 Thanks for dropping by. Cheers to more coding! 
