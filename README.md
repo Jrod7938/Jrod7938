@@ -20,7 +20,7 @@ Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as
 
 Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.com/in/jancarlosrodriguez) or catch me on [Discord](https://discordapp.com/users/553761075892453398). I'm always up for an insightful conversation!  
 
-## 📊 GitHub Metrics  
+## GitHub Metrics  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jrod7938&theme=tokyonight)  
 
@@ -32,4 +32,4 @@ Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.
 
 Open-source projects or interesting collaborations spark my interest. If my work resonates with you or if you have a project proposal, don't hesitate to hit me up on [Discord](https://discordapp.com/users/553761075892453398).  
 
-Thanks for dropping by. Cheers to more coding! 🚀
+Thanks for dropping by. Cheers to more coding! 
