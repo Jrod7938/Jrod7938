@@ -12,7 +12,7 @@ Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as
 
 ## Projects  
 
-- [MyFxApp](https://github.com/Jrod7938/MyFxApp): Cross-Platform .NET MAUI Forex Portfolio Tracker
+- [MyFxApp](https://github.com/Jrod7938/MyFxApp): Cross-Platform Forex Portfolio Tracker
 - [txtChange](https://github.com/Jrod7938/txtChangeApp): Mobile Textbook Exchange App for Hofstra University
 - [JRPlugins](https://github.com/Jrod7938/JRPlugins): Automation Plugins for RuneLite Client
 - [Checkers](https://github.com/Jrod7938/MSSA/tree/main/Midterm): Checkers Game with AI Agents and Multiplayer
