@@ -2,7 +2,7 @@
 
 ## About Me  
 
-Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as JR. I have a Bachelor's degree in Computer Science and am currently enrolled in the **Microsoft Software and Systems Academy (MSSA) Cloud Application Development** program.
+Hey there! I'm Jancarlos Rodriguez, widely recognized in the coding community as JR. I have a **Bachelor's degree in Computer Science** and am a graduate of the **Microsoft Software and Systems Academy (MSSA) Cloud Application Development** program.
 
 ## Interests  
 
